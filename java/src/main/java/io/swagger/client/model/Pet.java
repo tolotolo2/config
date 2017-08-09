@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Pet
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-09T09:22:04.886Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2017-08-09T09:23:05.289Z")
 public class Pet {
   @SerializedName("id")
   private Long id = null;
